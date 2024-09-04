@@ -40,7 +40,7 @@ a- Their preferred product (although there could be a bias towards the second or
 
 b- On the day when they do not usually consume (there could also be a slight bias defined by us)
 
-![example image](/promotionai.png)
+![example image](/promotionsai.png)
 
 
 ## Data sources and AI methods

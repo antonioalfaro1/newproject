@@ -74,7 +74,9 @@ If the reason is unavoidable (for example, on days when they do not work or do n
 The model could be adapted to new formulas:
 
 -Offer promotions on the client's usual days but offering new products on sale
+
 -Reduce the offers to a single day but make them more aggressive to see the clients' behavior.
+
 etc.
 
 ## What next?

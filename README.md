@@ -1,4 +1,4 @@
-# Project Title
+# Personalized promotions for regular restaurant customers
 
 Final project for the Building AI course
 

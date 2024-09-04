@@ -58,28 +58,26 @@ The information will come from the company's databases for each client:
 
 -Frequency of consumption on Sunday
 
+Techniques:
 
-AI methods:
+- tf-idf technique for products by adding a weighting factor (positive or negative) at the company's discretion. Choice of 1 or 2 products to promote.
 
--
-
-
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+-Days of the week: obtaining a value based on log10 to make it more uniform by applying: frequency x intercept term = weighted value. Log10(weighted value)= value (between 0 and 1). Days with a weighted value lower than a ratio, for example 0.20, the least common for the client, will be chosen as the promotion day.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This promotional mechanism aims to attract customers with their favorite product/s on days when they do not usually go to the restaurant.
+If the reason is unavoidable (for example, on days when they do not work or do not rest, they do not go because of the distance, or those are days with incompatible schedules) the promotion will not be effective.
+
+The model could be adapted to new formulas:
+
+-Offer promotions on the client's usual days but offering new products on sale
+-Reduce the offers to a single day but make them more aggressive to see the clients' behavior.
+etc.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The challenge of this model is to determine whether loyalty program databases allow all the required information to be extracted and processed en masse.
 
 
 ## Acknowledgments

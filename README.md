@@ -40,6 +40,8 @@ a- Their preferred product (although there could be a bias towards the second or
 
 b- On the day when they do not usually consume (there could also be a slight bias defined by us)
 
+![example image](/promotionai.png)
+
 
 ## Data sources and AI methods
 
@@ -82,8 +84,4 @@ The challenge of this model is to determine whether loyalty program databases al
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Thank you to our restaurant customers for so many years of teaching us that we love extensive menus, but we are creatures of habit.
